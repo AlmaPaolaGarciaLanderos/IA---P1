@@ -1,0 +1,21 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+
+PrimeraPalabra = "Alma Paola" #Definimos la primera palabra.
+
+SegundaPalabra = "Garcia Landeros" # Definimos la segunda palabra.
+
+PalabraFinal = PrimeraPalabra + " " + SegundaPalabra + "." # Y aquí simplemente concatenamos las dos variables tipo string que hemos definido.
+
+print(PalabraFinal) # 
+Finalmente, presentamos todo de manera conjunta.
+
+# Otra forma de hacerlo podria ser:
+
+print("Alma Paola" + " " + "Garcia Landeros" + ".")
+
+# o tambien:
+
+print ("Alma Paola Garcia Landeros.")
