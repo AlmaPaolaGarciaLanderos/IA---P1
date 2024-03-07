@@ -1,0 +1,11 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+
+mensaje = "Alma Paola Garcia Landeros." #Declaramos una variable y asignamos un valor textual, encerrado entre comillas para indicar que es un texto.
+print(mensaje) #Mostramos en la interfaz visual el mensaje 1.
+
+mensaje2 = 100 #Definimos el mensaje 2, donde no es requerido usar comillas ya que su valor es un número entero.
+
+print(mensaje2 + 200) #Imprimimos el mensaje y havemos una suma.
