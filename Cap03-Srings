@@ -1,0 +1,17 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+
+"Esto es un string" # Un String puede ser representado utilizando comillas dobles ("").
+'Esto es un string'#También es posible escribir un String utilizando comillas simples ('').
+
+# Para incluir comillas dentro de un string, disponemos de dos alternativas:
+
+texto = 'Alma Paola Garcia Landeros".'  # Comenzamos el texto con una comilla simple y dentro de este, colocamos el apodo del club entre comillas dobles.
+
+texto2 = "Los dinosaurios." #O al contrario, pero no es posible utilizar dos grupos de comillas del mismo tipo dentro del mismo contexto.
+
+print(texto)
+
+print(texto2)
