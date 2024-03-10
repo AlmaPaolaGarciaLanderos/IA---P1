@@ -1,0 +1,16 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
+
+suma = 7+10 #Para realizar la suma, empleamos el operador "+".
+resta = 10-26 #Para realizar la resta, utilizamos el símbolo "-".
+Multiplicacion = 7*3 #Para realizar la multiplicación, empleamos el símbolo "*".
+Division = 98/7 #Para realizar la división, usamos el símbolo "/".
+
+#En este caso, para concatenar los cuatro resultados, no incluiremos el símbolo "+" ya que se sumarían todos los resultados.
+
+print(suma, resta, Multiplicacion, Division) 
+
+# En el caso de concatenar operaciones, utilizaremos simplemente la coma ",".
