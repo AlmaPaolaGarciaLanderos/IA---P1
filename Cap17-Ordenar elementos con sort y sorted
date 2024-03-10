@@ -1,0 +1,22 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
+
+#Creamos nuestra lista utilizando corchetes "[]" y comas "," para separar cada elemento.
+
+Animales = ['Dinosaurios', 'Osos', 'Perros', 'Gatos']
+
+#Para ordenar los Animales alfabeticamente utilizaremos el metodo "sort()".
+#Si quisieramos ordenarlos al reves usamos "sort(reveres=TRUE)"
+
+Animales.sort()
+
+#Con "sort()" el cambio es permamente
+#Con "sorted()" es temporal 
+
+print(Animales)
+
+#Aqui podemos ver que nuestra posicion "0" cambio elanimal.
+print(Animales [0])
