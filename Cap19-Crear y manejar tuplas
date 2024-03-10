@@ -1,0 +1,19 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Indstrial
+
+# La lista se representa entre corchetes y es modificable, permitiendo añadir o eliminar objetos.
+
+ListAnimales = ['Dinosaurios','Pinguinos','Tortugas','Perros','Gatos','Osos','Vacas','Tigres','Peces','Cavallos','Pulpos','Elefantes','Jirafas','Conejos','Patos','Pollos','Ranas','Canguros']
+
+#La tupla se define utilizando paréntesis y es inmutable, lo que significa que no se puede modificar una vez creada.
+
+Tupla = (10, 15, 20, "El resultado de la operacion es: ")
+
+#Para acceder a los elementos de la tupla, se hace de la misma manera que con una lista, y para concatenar elementos, simplemente se utiliza la coma ",".
+
+print(Tupla[3], Tupla[0] + Tupla[2])
+
+#Aquí realizamos la suma de dos variables de nuestra tupla.
