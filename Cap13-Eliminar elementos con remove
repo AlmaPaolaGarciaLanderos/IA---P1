@@ -1,0 +1,16 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
+
+#Creamos unalista 
+
+Animales = ['Dinosaurios','Pinguinos','Tortugas','Perros','Gatos','Osos','Vacas','Tigres','Peces','Cavallos','Pulpos','Elefantes','Jirafas','Conejos','Patos','Pollos','Ranas','Canguros']
+
+# Una forma de eliminar un elemento es usando el método ".remove", al cual le proporcionamos el nombre del objeto que queremos eliminar.
+
+Animales.remove("Perros")
+Animales.remove("Pulpos")
+
+print(Animales)
