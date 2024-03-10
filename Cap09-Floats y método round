@@ -1,0 +1,13 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
+
+Num1 = 2002
+
+Num2 = 7.1416  #Definimos una variable que incluye un punto decimal.
+
+resultado = Num1+Num2
+
+print(round(resultado, 2))  #La función "round()" redondea nuestra cifra. Debes especificar el nombre de nuestra variable, que contendrá el resultado, seguido del número de decimales que deseas.
