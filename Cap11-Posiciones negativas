@@ -1,0 +1,15 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
+
+#Creamos una lista 
+
+Animales = ['Dinosaurios','Pinguinos','Tortugas','Perros','Gatos','Osos','Vacas','Tigres','Peces','Cavallos','Pulpos','Elefantes','Jirafas','Conejos','Patos','Pollos','Ranas','Canguros']
+
+# Para las posiciones negativas, haremos prácticamente lo mismo que en la ocasión anterior, pero esta vez añadiremos un signo negativo.
+
+print("El ultimo elemento de la lista es: " + Animales[-1])
+
+#De esta forma, es más sencillo acceder al animal que está ubicado al final sin tener que contar cada uno y determinar su posición.
