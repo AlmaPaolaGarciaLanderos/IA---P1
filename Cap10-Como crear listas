@@ -1,0 +1,18 @@
+#Alma Paola Garcia Landeros
+#21110038 
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial 
+
+#Creamos nuestra lista utilizando corchetes "[]" y comas "," para separar cada palabra.
+
+Animales = ['Dinosaurios', 'Pinguinos', 'Gatos', 'Perros']
+
+#Para mostrar el animal que deseamos, usaremos la variable seguida de la posición que ocupa en nuestra lista.
+#Nota: Comenzamos desde 0, considerándolo como nuestro primer valor.
+
+print(Animal[0])
+
+print(Animal[3])
+
+#En este caso, contamos con 4 animales, por lo tanto, comenzaremos desde el 0 hasta el 3.
