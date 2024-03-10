@@ -1,0 +1,26 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
+
+MetTitle = "Los Dinosaurios" #Definimos nuestra variable y asignamos un valor.
+
+#Podemos aplicar el método .title() directamente dentro del print o realizarlo previamente.
+print(MetTitle.title())
+
+#El método title convierte la oración para que cada palabra comience con una letra mayúscula.
+
+MetUpper = "los dinosaurios" #En este caso, todas las letras están en minúscula a propósito.
+
+#El método Upper convertirá todas las letras en mayúsculas.
+
+print(MetUpper.upper())
+
+MetLower = "LoS dInOSauRIOs" #En este caso, coloqué letras mayúsculas de forma aleatoria.
+
+#El método Lower convierte todas las letras a minúsculas.
+
+print(MetUpper.lower())
+
+#Estos métodos formatean el texto y luego lo ajustan según el método utilizado.
