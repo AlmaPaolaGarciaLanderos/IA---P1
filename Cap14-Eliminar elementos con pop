@@ -1,0 +1,21 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
+
+#Inicialmente, creamos una lista.
+
+Animales = ['Dinosaurios','Pinguinos','Tortugas','Perros','Gatos','Osos','Vacas','Tigres','Peces','Cavallos','Pulpos','Elefantes','Jirafas','Conejos','Patos','Pollos','Ranas','Canguros']
+
+#Utilizando el método Pop, eliminamos el objeto de la lista y al mismo tiempo lo guardamos en otra variable.
+
+GuardaLista = Animales.pop(0)
+
+#Mostramos en pantalla la lista con los Animales restantes.
+
+print(Animales)
+
+#Mostramos en pantalla el animal que fue eliminado y guardado aparte.
+
+print("El Animal eliminado de la lista es el: " + GuardaLista)
