@@ -1,0 +1,17 @@
+#Alma Paola Garcia Landeros
+#21110381
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
+
+#Creamos una lista 
+
+Animales = ['Dinosaurios','Pinguinos','Tortugas','Perros','Gatos','Osos','Vacas','Tigres','Peces','Cavallos','Pulpos','Elefantes','Jirafas','Conejos','Patos','Pollos','Ranas','Canguros']
+
+# Para determinar el número de elementos en la lista, usaremos el método "len()".
+
+print(len(Animales))
+
+#Para verificar esto, utilizaremos la última posición (considerando que la primera posición es 0).
+
+print(Animales[17])
