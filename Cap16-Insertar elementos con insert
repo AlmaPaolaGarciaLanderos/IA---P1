@@ -1,0 +1,17 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
+
+# Creamos nuestra lista utilizando corchetes "[]" y comas "," para separar cada elemento.
+
+Animales = ['Dinosaurios', 'Pinguinos', 'Tortugas', 'Perros']
+
+#En este caso, emplearemos el método "insert()", el cual nos permitirá agregar el objeto en la posición que elijamos.
+
+Animales.insert(0, "Gatos")
+
+#Este elemento será agregado al inicio de la lista.
+
+print(Animales)
