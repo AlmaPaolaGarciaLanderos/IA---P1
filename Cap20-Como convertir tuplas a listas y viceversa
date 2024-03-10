@@ -1,0 +1,25 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
+
+#Hacemos una lista
+
+ListAnimales = ['Dinosaurios','Pinguinos','Tortugas','Perros','Gatos','Osos','Vacas','Tigres','Peces','Cavallos','Pulpos','Elefantes','Jirafas','Conejos','Patos','Pollos','Ranas','Canguros']
+
+#Para transformar una lista en una tupla, utilizamos el método "tuple()".
+
+tupla = tuple(ListAnimales)
+
+print(tupla)
+
+TuplaAnimales = ['Dinosaurios','Pinguinos','Tortugas','Perros','Gatos','Osos','Vacas','Tigres','Peces','Cavallos','Pulpos','Elefantes','Jirafas','Conejos','Patos','Pollos','Ranas','Canguros']
+
+#Para convertir una tupla en una lista, empleamos el método "list()".
+
+lista = list(TuplaAnimales)
+
+# Verificamos.
+
+print(lista)
