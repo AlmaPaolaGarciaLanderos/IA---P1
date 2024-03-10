@@ -1,0 +1,15 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
+
+#Salto de linea.
+
+print("Dinosaurios\nPinguinos\nTortugas\nPerros")
+
+# Para el salto de linea utilizaremos "\n".
+
+print("\tDinosaurios\n\tPinguinos\n\tTortugas\n\tPerros")
+
+#Para implementar tabulaciones, emplearemos "\t" justo después de insertar nuestro salto de línea.
