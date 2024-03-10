@@ -2,6 +2,7 @@
 #21110038
 #6E1
 #Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
 
 mensaje = "Alma Paola Garcia Landeros." #Declaramos una variable y asignamos un valor textual, encerrado entre comillas para indicar que es un texto.
 print(mensaje) #Mostramos en la interfaz visual el mensaje 1.
