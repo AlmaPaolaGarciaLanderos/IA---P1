@@ -1,0 +1,9 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
+
+elevado = 7 ** 5 #La expresión para elevar una cantidad por un exponente se representa con "**".
+
+print(elevado)
