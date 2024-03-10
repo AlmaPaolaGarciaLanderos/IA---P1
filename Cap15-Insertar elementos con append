@@ -1,0 +1,17 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial
+
+Creamos una lista utilizando corchetes "[]" y comas "," para separar cada elemento.
+
+Animales = ['Dinosaurios', 'Tortugas', 'Perros', 'Gatos']
+
+#Para añadir objetos a la lista, usaremos el método "append()".
+
+Animales.append("pinguinos")
+
+#Este elemento será agregado al final de la lista.
+
+print(Animales)
